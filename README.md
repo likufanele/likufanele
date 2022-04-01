@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @likufanele!
-- 👀 I’m interested in cognitive sciences
-- 🌱 I’m currently learning philosophy of science
+- 👀 I’m interested in Cognitive Sciences
+- 🌱 I’m currently learning Philosophy of Science
 - 💞️ I’m looking to collaborate on theory of computation
 - 📫 How to reach me github@likufanele.com
 
